@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0728-self-dividing-numbers) |
+| [2383-add-two-integers](https://github.com/jhansi-challa/Leetcode/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/jhansi-challa/Leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jhansi-challa/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Sorting
