@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhansi-challa/Leetcode/tree/master/0011-container-with-most-water) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
+| [0485-max-consecutive-ones](https://github.com/jhansi-challa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jhansi-challa/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jhansi-challa/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
