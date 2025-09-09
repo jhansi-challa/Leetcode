@@ -1,5 +1,8 @@
 class Solution {
     public int coinChange(int[] coins, int amount) {
+        if(amount == 0){
+            return 0;
+        }
         int[] dp = new int[amount + 1];
         Arrays.fill(dp, Integer.MAX_VALUE);
         dp[0] =0;
