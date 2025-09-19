@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jhansi-challa/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0063-unique-paths-ii](https://github.com/jhansi-challa/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/jhansi-challa/Leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/jhansi-challa/Leetcode/tree/master/0198-house-robber) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhansi-challa/Leetcode/tree/master/0011-container-with-most-water) |
+| [0063-unique-paths-ii](https://github.com/jhansi-challa/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/jhansi-challa/Leetcode/tree/master/0198-house-robber) |
@@ -94,5 +96,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/jhansi-challa/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
