@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/jhansi-challa/Leetcode/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/jhansi-challa/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jhansi-challa/Leetcode/tree/master/0228-summary-ranges) |
 | [0322-coin-change](https://github.com/jhansi-challa/Leetcode/tree/master/0322-coin-change) |
@@ -108,5 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jhansi-challa/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/jhansi-challa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
