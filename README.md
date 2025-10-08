@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jhansi-challa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jhansi-challa/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/jhansi-challa/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/jhansi-challa/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Two Pointers
 |  |
@@ -137,4 +138,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jhansi-challa/Leetcode/tree/master/0389-find-the-difference) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhansi-challa/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jhansi-challa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/jhansi-challa/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
