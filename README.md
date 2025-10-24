@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jhansi-challa/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/jhansi-challa/Leetcode/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/jhansi-challa/Leetcode/tree/master/0812-rotate-string) |
 | [3468-find-the-encrypted-string](https://github.com/jhansi-challa/Leetcode/tree/master/3468-find-the-encrypted-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/jhansi-challa/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/jhansi-challa/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/jhansi-challa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jhansi-challa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/jhansi-challa/Leetcode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +155,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhansi-challa/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
