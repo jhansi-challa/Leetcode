@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/jhansi-challa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/jhansi-challa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jhansi-challa/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1839-decode-xored-array](https://github.com/jhansi-challa/Leetcode/tree/master/1839-decode-xored-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jhansi-challa/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/jhansi-challa/Leetcode/tree/master/0011-container-with-most-water) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jhansi-challa/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Hash Table
 |  |
 | ------- |
