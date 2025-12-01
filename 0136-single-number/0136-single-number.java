@@ -1,10 +1,9 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int res = 0;
-
-        for(int num : nums){
-            res ^= num;
+        int result = 0;
+        for (int n : nums) {
+            result ^= n;   // XOR operation
         }
-        return res;
+        return result;
     }
 }
