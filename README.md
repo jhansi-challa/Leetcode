@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jhansi-challa/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/jhansi-challa/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jhansi-challa/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
 ## Prefix Sum
