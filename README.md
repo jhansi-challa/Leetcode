@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/jhansi-challa/Leetcode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/jhansi-challa/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jhansi-challa/Leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/jhansi-challa/Leetcode/tree/master/0221-maximal-square) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/jhansi-challa/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jhansi-challa/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/jhansi-challa/Leetcode/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/jhansi-challa/Leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/jhansi-challa/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/jhansi-challa/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/jhansi-challa/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
