@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jhansi-challa/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jhansi-challa/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jhansi-challa/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1839-decode-xored-array](https://github.com/jhansi-challa/Leetcode/tree/master/1839-decode-xored-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jhansi-challa/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/jhansi-challa/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jhansi-challa/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jhansi-challa/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhansi-challa/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
 |  |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
+## Brainteaser
+|  |
+| ------- |
+| [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jhansi-challa/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 <!---LeetCode Topics End-->
