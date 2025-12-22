@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/jhansi-challa/Leetcode/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/jhansi-challa/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/jhansi-challa/Leetcode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/jhansi-challa/Leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 | [0485-max-consecutive-ones](https://github.com/jhansi-challa/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/jhansi-challa/Leetcode/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/jhansi-challa/Leetcode/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jhansi-challa/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/jhansi-challa/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
