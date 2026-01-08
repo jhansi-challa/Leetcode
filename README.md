@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3468-find-the-encrypted-string](https://github.com/jhansi-challa/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/jhansi-challa/Leetcode/tree/master/3636-check-balanced-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhansi-challa/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3794-reverse-string-prefix](https://github.com/jhansi-challa/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/jhansi-challa/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3794-reverse-string-prefix](https://github.com/jhansi-challa/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
