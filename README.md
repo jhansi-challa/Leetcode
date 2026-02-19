@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jhansi-challa/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jhansi-challa/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/jhansi-challa/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/jhansi-challa/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/jhansi-challa/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/jhansi-challa/Leetcode/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/jhansi-challa/Leetcode/tree/master/0072-edit-distance) |
@@ -216,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/jhansi-challa/Leetcode/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jhansi-challa/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
