@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/jhansi-challa/Leetcode/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/jhansi-challa/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jhansi-challa/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1732-find-the-highest-altitude](https://github.com/jhansi-challa/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1839-decode-xored-array](https://github.com/jhansi-challa/Leetcode/tree/master/1839-decode-xored-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/jhansi-challa/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/jhansi-challa/Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jhansi-challa/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1732-find-the-highest-altitude](https://github.com/jhansi-challa/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Bit Manipulation
 |  |
 | ------- |
