@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/jhansi-challa/Leetcode/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/jhansi-challa/Leetcode/tree/master/0812-rotate-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jhansi-challa/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1768-merge-strings-alternately](https://github.com/jhansi-challa/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3468-find-the-encrypted-string](https://github.com/jhansi-challa/Leetcode/tree/master/3468-find-the-encrypted-string) |
 | [3636-check-balanced-string](https://github.com/jhansi-challa/Leetcode/tree/master/3636-check-balanced-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/jhansi-challa/Leetcode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/jhansi-challa/Leetcode/tree/master/0412-fizz-buzz) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jhansi-challa/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/jhansi-challa/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/jhansi-challa/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Breadth-First Search
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jhansi-challa/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jhansi-challa/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/jhansi-challa/Leetcode/tree/master/0389-find-the-difference) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/jhansi-challa/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/jhansi-challa/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1839-decode-xored-array](https://github.com/jhansi-challa/Leetcode/tree/master/1839-decode-xored-array) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/jhansi-challa/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
